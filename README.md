@@ -1,4 +1,4 @@
-#Resumo
+# Resumo
 
 Os estudos sobre séries temporais financeiras vem aumentando cada vez mais ao longo
 dos anos principalmente com o uso de modelos de aprendizado de máquina para tentar
